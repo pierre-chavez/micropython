@@ -32,6 +32,6 @@ except Exception as e:
 
 ```
 
-- [x] opcion 1
+- [ ] opcion 1
 - [ ]	opcion 2
 - [ ]	opcion 3
