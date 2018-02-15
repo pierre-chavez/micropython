@@ -2,7 +2,7 @@
 ## Titulo 2
 ### Titulo 3
 
-'''markdown
+```markdown
 import smtplib
 
 fromAddr = 'pierre_chavez@icloud.com'
@@ -30,8 +30,8 @@ try:
 except Exception as e:
 	print('mensaje no enviado ', e)
 
-'''
+```
 
--[x] opcion 1
--[ ]	opcion 2
--[ ]	opcion 3
+- [x] opcion 1
+- [ ]	opcion 2
+- [ ]	opcion 3
