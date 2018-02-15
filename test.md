@@ -31,3 +31,7 @@ except Exception as e:
 	print('mensaje no enviado ', e)
 
 '''
+
+-[x] opcion 1
+-[ ]	opcion 2
+-[ ]	opcion 3
