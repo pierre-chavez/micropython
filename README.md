@@ -1,5 +1,6 @@
 ## Bienvenidos a Iot Ecuador
 ![MicroPython](microPython.jpg)
+[test](test.md)
 
 You can use the [editor on GitHub](https://github.com/iot-ecu/micropython/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
