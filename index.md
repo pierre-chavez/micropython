@@ -28,3 +28,5 @@ MicroPython es
 ## Pasos:
 
 [Pagina 1](test.html){: .btn}
+
+{% include test.html %}
