@@ -27,4 +27,4 @@ MicroPython es
 
 ## Pasos:
 
-[Pagina 1](test.html)
+[Pagina 1](test.html){: .btn}
