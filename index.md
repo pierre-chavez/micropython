@@ -27,4 +27,4 @@ MicroPython es
 
 ## Pasos:
 
-[Pagina 1](test.md){: .btn.btn-outline-primary}
+[Pagina 1](test.html)
